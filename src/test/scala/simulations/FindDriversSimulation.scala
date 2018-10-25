@@ -1,7 +1,7 @@
 package com.hendisantika.gatling.simulations
 
-import io.gatling.core.scenario.Simulation
 import io.gatling.core.Predef._
+import io.gatling.core.scenario.Simulation
 import io.gatling.http.Predef._
 import io.gatling.http.request.builder.HttpRequestBuilder.toActionBuilder
 
