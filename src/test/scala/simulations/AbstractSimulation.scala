@@ -1,8 +1,9 @@
 package simulations
 
-import io.gatling.core.scenario.Simulation
 import io.gatling.core.Predef._
+import io.gatling.core.scenario.Simulation
 import io.gatling.http.Predef._
+
 import scala.concurrent.duration._
 
 /**
